@@ -5,5 +5,10 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "test": "echo without tests",
+    "build": "echo not able to build",
+    "lint": "echo not able to lint"
   }
 }
